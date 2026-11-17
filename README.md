@@ -135,3 +135,11 @@ Payment gateway, car photo uploads, email notifications, driver licence verifica
 
 AUTHOR
 UTKARSH KUMAR
+
+Output
+
+<img width="1280" height="800" alt="1-home" src="https://github.com/user-attachments/assets/4f53a3cc-2c4a-4ddc-912d-cffb5964ad27" />
+<img width="1280" height="800" alt="2-cars" src="https://github.com/user-attachments/assets/7f54de90-c045-4724-91c6-9326e8c7c660" />
+<img width="1280" height="800" alt="3-book" src="https://github.com/user-attachments/assets/1b01f460-9c3e-4315-bdb5-fce1ba93aa09" />
+<img width="1280" height="800" alt="6-admincars" src="https://github.com/user-attachments/assets/cfef54b6-af86-4c86-b0bd-545772d1a768" />
+
