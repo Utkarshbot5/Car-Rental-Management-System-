@@ -132,6 +132,15 @@ Docker alternative: `docker build -t car-rental . && docker run -p 3000:3000 car
 
 Payment gateway, car photo uploads, email notifications, driver licence verification, reviews and ratings.
 
-## License
+## AUTHOR
 
-MIT
+UTKARSH KUMAR
+
+
+Output
+
+
+<img width="1280" height="800" alt="6-admincars" src="https://github.com/user-attachments/assets/afe7a2b3-be97-42fb-80cf-a029894b562b" />
+<img width="1280" height="800" alt="3-book" src="https://github.com/user-attachments/assets/dc831245-2c41-4944-aa87-092452af4988" />
+<img width="1280" height="800" alt="2-cars" src="https://github.com/user-attachments/assets/760afb03-4808-4ac6-80cb-b2fc48f22706" />
+<img width="1280" height="800" alt="1-home" src="https://github.com/user-attachments/assets/8b754681-1fb0-4555-ae9a-1d47ef402f3a" />
