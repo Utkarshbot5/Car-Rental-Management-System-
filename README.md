@@ -133,6 +133,5 @@ Docker alternative: `docker build -t car-rental . && docker run -p 3000:3000 car
 
 Payment gateway, car photo uploads, email notifications, driver licence verification, reviews and ratings.
 
-##AUTHOR
-
+AUTHOR
 UTKARSH KUMAR
