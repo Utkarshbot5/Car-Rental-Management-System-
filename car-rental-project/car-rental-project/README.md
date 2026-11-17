@@ -139,8 +139,10 @@ UTKARSH KUMAR
 
 Output
 
+<img width="1280" height="800" alt="1-home" src="https://github.com/user-attachments/assets/7ba6cb79-8eb7-4015-8265-614a79f9b66a" />
+<img width="1280" height="800" alt="2-cars" src="https://github.com/user-attachments/assets/a50487a8-b0d3-4d04-a38c-3bcc74fb92e1" />
+<img width="1280" height="800" alt="3-book" src="https://github.com/user-attachments/assets/85c23f4f-4c8b-4bec-bc1d-1d6454044844" />
+<img width="1280" height="800" alt="6-admincars" src="https://github.com/user-attachments/assets/f25ba663-09b8-40ac-84a4-101fb05bd7d1" />
 
-<img width="1280" height="800" alt="6-admincars" src="https://github.com/user-attachments/assets/afe7a2b3-be97-42fb-80cf-a029894b562b" />
-<img width="1280" height="800" alt="3-book" src="https://github.com/user-attachments/assets/dc831245-2c41-4944-aa87-092452af4988" />
-<img width="1280" height="800" alt="2-cars" src="https://github.com/user-attachments/assets/760afb03-4808-4ac6-80cb-b2fc48f22706" />
-<img width="1280" height="800" alt="1-home" src="https://github.com/user-attachments/assets/8b754681-1fb0-4555-ae9a-1d47ef402f3a" />
+
+
